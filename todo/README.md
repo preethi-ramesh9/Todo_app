@@ -1,16 +1,12 @@
 # todo
 
-A new Flutter project.
+This is a Todo App project done using flutter on visual studio code.this project uses the local database to store the tasks you want to do.
 
-## Getting Started
+# Install flutter
 
-This project is a starting point for a Flutter application.
+you should install flutter first for this project to run on your local device.
+1. Go to the given link https://docs.flutter.dev/get-started/install and set up all the steps given on this page to get started
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Sample app images
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
